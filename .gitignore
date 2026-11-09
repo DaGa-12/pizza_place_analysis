@@ -1,0 +1,23 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+
+# Power BI temporary and backup files
+*.pbix~
+*.pbit~
+*.pbix.autorecover
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
