@@ -87,33 +87,33 @@ Screenshots of the main dashboard pages and additional exploratory analyses are 
 
 ### Pizza Sales Overview
 
-`![Pizza Sales Overview](Screenshots/Sales_Overview.png)`
+![Pizza Sales Overview](Screenshots/Sales_Overview.png)
 
 ### Flavor Analysis
 
-`![Flavor Analysis](Screenshots/Flavor_Analysis.png)`
+![Flavor Analysis](Screenshots/Flavor_Analysis.png)
 
 ### Exploratory Analysis
 
 ##### Bottom Pizza Exploration
 
-`![Bottom Pizza Exploration](Screenshots/Bottom_Pizza_Exploration.png)`
+![Bottom Pizza Exploration](Screenshots/Bottom_Pizza_Exploration.png)
 
 ##### Top Pizza By Revenue
 
-`![Top Pizza By Revenue](Screenshots/Top_Pizza_By_Revenue_Exploration.png)`
+![Top Pizza By Revenue](Screenshots/Top_Pizza_By_Revenue_Exploration.png)
 
 ##### Top Pizza By Units Sold
 
-`![Top Pizza By Units Sold](Screenshots/Top_Pizza_By_Units_Sold_Exploration.png)`
+![Top Pizza By Units Sold](Screenshots/Top_Pizza_By_Units_Sold_Exploration.png)
 
 ##### Italian Pizzas Exploration
 
-`![Italian Pizzas Exploration](Screenshots/Italian_Pizzas_Exploration.png)`
+![Italian Pizzas Exploration](Screenshots/Italian_Pizzas_Exploration.png)
 
 ##### Chicken Ingredient Exploration
 
-`![Chicken Ingredient Exploration](Screenshots/Chicken_Ingredient_Exploration.png)`
+![Chicken Ingredient Exploration](Screenshots/Chicken_Ingredient_Exploration.png)
 
 ## Notes
 
